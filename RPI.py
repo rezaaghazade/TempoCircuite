@@ -1,0 +1,1 @@
+from GUI import Ui_Dialog
